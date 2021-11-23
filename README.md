@@ -2,7 +2,7 @@
 A simple example bot built with aoi.js
 
 ### Engines
-* [Node.JS](https://node.js.org/) Version 16.6.0 or newer is required.
+* [Node.JS](https://nodejs.org/) Version 16.6.0 or newer is required.
 
 ### aoi.js Links
 * [Documentation](https://aoi.leref.ga)
