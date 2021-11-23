@@ -4,6 +4,11 @@ A simple example bot built with aoi.js
 ### Engines
 * [Node.JS](https://nodejs.org/) Version 16.6.0 or newer is required.
 
+### Env Variables
+* Go to `.env` file and paste your bot's token to get started.
+* We strongly recommend you to use env variables for public editors like [Replit](https://replit.com), [Glitch](https://glitch.com)
+* Do not commit `.env` if your repository is public.
+
 ### aoi.js Links
 * [Documentation](https://aoi.leref.ga)
 * [Discord Server](https://aoi.js.org/invite)
