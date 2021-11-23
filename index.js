@@ -8,6 +8,10 @@ intents: ["GUILDS", "GUILD_MESSAGES"] //Intents
 })
 bot.onMessage()
 
+//Command Handling
+const loader = new aoijs.LoadCommands(bot)
+loader.load(bot.cmd,"./commands/")
+
 bot.command({
 name: "ping",
 aliases: ['pong'],
