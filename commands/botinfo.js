@@ -18,3 +18,5 @@ module.exports = {
       $addTimestamp[1]
       $color[1;RANDOM]`
 }
+
+//Returns bot's info and stats
